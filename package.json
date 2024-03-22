@@ -1,0 +1,35 @@
+{
+  "name": "providentsed",
+  "version": "1.0.0",
+  "description": "Common classes and utils",
+  "main": "index.js",
+  "author": "RogerHauck",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.171",
+    "axios": "^0.21.1",
+    "buffer": "^6.0.3",
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.11.1",
+    "decimal.js": "^10.3.1",
+    "lodash": "^4.17.21",
+    "process": "^0.11.10",
+    "rxjs": "^6.6.7",
+    "tweetnacl": "^1.0.3",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "gulp-npm-publisher": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StantonKovacek/providentsed.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/StantonKovacek/providentsed.git/issues"
+  },
+  "homepage": "https://github.com/StantonKovacek/providentsed.git"
+}
